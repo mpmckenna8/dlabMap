@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bart Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26816534996033,
+          37.870136095554535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DLab UC Berkeley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25826799869536,
+          37.86999635052348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bancroft Parking Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25577890872957,
+          37.86936114249631
+        ]
+      }
+    }
+  ]
+}
