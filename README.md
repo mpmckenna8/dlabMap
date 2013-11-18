@@ -12,5 +12,8 @@ whipping up, and add to this one or make your own and share it with me!
 http://geojson.io/#id=gist:mpmckenna8/7f86b8dc017d7ebe46f4&map=14/37.8659/-122.2628
 
 
+I'd like to have a map made using bootleaf.io by Bryan McBride as a template before the end of the semester, maybe detail the
+process of how I done did it if anyone seems interested or can't figure it out.
+
 
 
